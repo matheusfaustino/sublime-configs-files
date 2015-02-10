@@ -1,0 +1,5 @@
+[
+	{ "keys": ["ctrl+shift+alt+down"], "command": "goto_definition" },
+	{ "keys": ["ctrl+alt+shift+a"], "command": "alignment" },
+    { "keys": ["ctrl+space"], "command": "auto_complete" },
+]
